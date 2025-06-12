@@ -1,8 +1,8 @@
 {
-  "version_jp":"5.20.1-b20e91664b04690373fbaebd8526ea2658499e08bb8cd0cbc914d320bc559325",
-  "version": "5.22.1-b029e84a02a88dabba5c66a210d14f9f69c27d69d23d2b13dcdf50b9f660ff6c",
-  "bot_app_version": false, 
-  "bot_version": "1.5.2", 
-  "maintenance": false, 
-  "is_coop_period": false 
+  "version_jp": "5.28.0-e9206c5811687ff91884893a794411cb233bf19ebcabdefed10877e8ded3a5ce",
+  "version": "5.28.0-e9206c5811687ff91884893a794411cb233bf19ebcabdefed10877e8ded3a5ce",
+  "bot_app_version": false,
+  "bot_version": "1.5.2",
+  "maintenance": false,
+  "is_coop_period": false
 }
